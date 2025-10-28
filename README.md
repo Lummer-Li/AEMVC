@@ -63,13 +63,13 @@ Seven benchmark multi-view datasets are utilized to evaluate the performance of 
 
 **Table 1. Clustering results on seven multi-view datasets. “Incomplete” represents data with 50% missing views, while “Complete” denotes data without missing views. The best and second-best results are highlighted in bold and underlined, respectively. Note that VITAL, SCMVC, and DCMVC are evaluated only on complete data as they are not designed for incomplete scenarios.**
 <div>
-    <img src="figures/tab1.jpg" width="80%" height="96%">
+    <img src="assets/tab1.jpg" width="80%" height="96%">
 </div>
 
 <br> </br>
 
 <div>
-    <img src="figures/fig1.jpg" width="96%" height="96%">
+    <img src="assets/fig1.jpg" width="96%" height="96%">
 </div>
 
 **Figure 1. Clustering performance under different missing rates on the Handwritten dataset. The colored regions denote the standard variances with five random experiments.**
