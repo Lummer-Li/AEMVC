@@ -64,10 +64,10 @@ Seven benchmark multi-view datasets are utilized to evaluate the performance of 
     <img src="https://github.com/Lummer-Li/AEMVC/blob/main/assets/tab1.png" width="80%" height="96%">
 </div>
 
-<br> </br>
+<!-- <br> </br> -->
 
 <div>
-    <img src="https://github.com/Lummer-Li/AEMVC/blob/main/assets/fig1.png" width="96%" height="96%">
+    <img src="https://github.com/Lummer-Li/AEMVC/blob/main/assets/fig1.png" width="80%" height="96%">
 </div>
 
 **Figure 1. Clustering performance under different missing rates on the Handwritten dataset. The colored regions denote the standard variances with five random experiments.**
