@@ -2,7 +2,7 @@
 This is the implementation of AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering, published in ACM MM 2025.
 
 > URL: [AEMVC: Mitigate Imbalanced Embedding Space in Multi-view Clustering](https://dl.acm.org/doi/pdf/10.1145/3746027.3754697)
-<img src="https://github.com/Lummer-Li/AEMVC/blob/main/AEMVC.png">
+<img src="https://lummer-li.github.io/images/AEMVC.png">
 
 ## Requirements
 
