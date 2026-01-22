@@ -32,7 +32,7 @@
 
 ## Overview🔍
 <div>
-    <img src="https://lummer-li.github.io/images/AEMVC.png" width="90%" height="90%">
+    <img src="https://github.com/Lummer-Li/AEMVC/blob/main/assets/AEMVC.png" width="90%" height="90%">
 </div>
 
 **Figure 1. The framework of the proposed AEMVC.**
